@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jai-Verma-04
 - 👀 I’m interested in Python, Machine learning and Data Science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and pursuing undergraduate degree in Staistics.
 - 💞️ I’m looking to collaborate on any projects based on python.
 - 📫 How to reach me: vermajai2004@gmail.com
 - Instagram: jai._.verma
