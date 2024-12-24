@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Exciting data analysis and cricket analytics projects, leveraging Python, SQL, and machine learning.<br>🤝 I’m looking to collaborate on: Data-driven decision-making tools, predictive analytics projects, and innovative AI applications.<br>🌱 I’m currently learning: Machine learning, AI, and deep learning techniques to solve complex problems.
+🔭 I’m currently working on: Exciting data analysis and cricket analytics projects, leveraging Python, SQL, and machine learning.<br>🤝 I’m looking to collaborate on: Data-driven decision-making tools, predictive analytics projects, and innovative AI applications.<br>🌱 I’m currently learning: Machine learning, AI, and deep learning techniques to solve complex problems.<br>💡 I'm interested in: Finding creative ways to use AI in sports, diving into predictive analytics, and telling stories through data that truly resonate.
 
 
 ## 🌐 Socials:
